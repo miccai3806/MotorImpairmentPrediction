@@ -8,9 +8,9 @@ This study introduces an attention-based multimodal deep learning model to predi
 An ensemble learning approach combined multiple modalities, achieving high classification accuracy for motor impairment prediction.
  
 # Repository Structure
-📂 Ensemble_Models/ – Contains pre-trained model weights for multimodal prediction.
-📂 Test_Data/ – Includes test data from two individuals, with available AD, FD, MD, RD, WM, and GM maps.
-📂 utils/ – Python scripts for data preprocessing, network creation, and metric computation.
-📄 motorscores_train.py – Training script for the 3D-CNN models.
-📄 motorscore_ensemble.py – Script for ensemble model integration across different modalities.
-📄 motorscore_ensemble_prediction.py – Prediction script for evaluating new test samples.
+📂 Ensemble_Models/ – Contains pre-trained model weights for multimodal prediction.<br>
+📂 Test_Data/ – Includes test data from two individuals, with available AD, FD, MD, RD, WM, and GM maps.<br>
+📂 utils/ – Python scripts for data preprocessing, network creation, and metric computation.<br>
+📄 motorscores_train.py – Training script for the 3D-CNN models.<br>
+📄 motorscore_ensemble.py – Script for ensemble model integration across different modalities.<br>
+📄 motorscore_ensemble_prediction.py – Prediction script for evaluating new test samples.<br>
