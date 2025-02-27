@@ -33,3 +33,7 @@ To evaluate test data using the ensemble approach, run: <br>
 <b> 3. Making Predictions <br>
 To generate predictions for test samples, run:<br>
 `python motorscore_ensemble_prediction.py --input Test_Data/ --weights Ensemble_Models/`<br>
+
+# Results
+The ensemble model combining all six imaging modalities achieved an accuracy of 0.96.
+The best-performing model (FA + WM) reached 0.97 accuracy, highlighting the importance of microstructural and structural imaging biomarkers.
