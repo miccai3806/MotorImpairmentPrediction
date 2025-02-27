@@ -37,3 +37,7 @@ To generate predictions for test samples, run:<br>
 # Results
 The ensemble model combining all six imaging modalities achieved an accuracy of 0.96.
 The best-performing model (FA + WM) reached 0.97 accuracy, highlighting the importance of microstructural and structural imaging biomarkers.
+
+# Citation
+If you use this repository, please cite our MICCAI 3806 paper: <br>
+Attention-Based Multimodal Deep Learning Model for Post-Stroke Motor Impairment Prediction, MICCAI 2025
