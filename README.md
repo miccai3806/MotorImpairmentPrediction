@@ -26,3 +26,18 @@ An ensemble learning approach combined multiple modalities, achieving high class
 # Usage
 <b> 1. Training the Model<br>
 To train the 3D-CNN model, run:<br>
+`python motorscores_train.py`<br>
+2. Running the Ensemble Model
+To evaluate test data using the ensemble approach, run:
+
+bash
+Copy
+Edit
+python motorscore_ensemble.py
+3. Making Predictions
+To generate predictions for test samples, run:
+
+bash
+Copy
+Edit
+python motorscore_ensemble_prediction.py --input Test_Data/ --weights Ensemble_Models/
