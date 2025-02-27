@@ -22,3 +22,7 @@ An ensemble learning approach combined multiple modalities, achieving high class
 2. Install dependencies<br>
    `pip install -r requirements.txt`<br>
 3. Download and extract the pre-trained models inside the Ensemble_Models/folder.<br>
+
+# Usage
+<b> 1. Training the Model<br>
+To train the 3D-CNN model, run:<br>
