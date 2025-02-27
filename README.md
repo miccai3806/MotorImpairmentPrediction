@@ -41,3 +41,6 @@ The best-performing model (FA + WM) reached 0.97 accuracy, highlighting the impo
 # Citation
 If you use this repository, please cite our MICCAI 3806 paper: <br>
 Attention-Based Multimodal Deep Learning Model for Post-Stroke Motor Impairment Prediction, MICCAI 2025
+
+# License
+This project is licensed under the MIT License.
