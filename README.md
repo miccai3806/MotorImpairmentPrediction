@@ -14,3 +14,12 @@ An ensemble learning approach combined multiple modalities, achieving high class
 📄 motorscores_train.py – Training script for the 3D-CNN models.<br>
 📄 motorscore_ensemble.py – Script for ensemble model integration across different modalities.<br>
 📄 motorscore_ensemble_prediction.py – Prediction script for evaluating new test samples.<br>
+# Getting Started
+<b> Installation <br>
+1. Clone the repository: 
+   git clone https://github.com/miccai3806/MotorImpairmentPrediction.git
+   cd strokeanalysis
+2. Install dependencies
+   pip install -r requirements.txt
+
+4. Download and extract the pre-trained models inside the Ensemble_Models/folder.
