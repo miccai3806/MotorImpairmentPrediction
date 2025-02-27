@@ -16,10 +16,9 @@ An ensemble learning approach combined multiple modalities, achieving high class
 📄 motorscore_ensemble_prediction.py – Prediction script for evaluating new test samples.<br>
 # Getting Started
 <b> Installation <br>
-1. Clone the repository: 
-   git clone https://github.com/miccai3806/MotorImpairmentPrediction.git
-   cd strokeanalysis
-2. Install dependencies
-   pip install -r requirements.txt
-
-4. Download and extract the pre-trained models inside the Ensemble_Models/folder.
+1. Clone the repository: <br>
+   `git clone https://github.com/miccai3806/MotorImpairmentPrediction.git`<br>
+   `cd strokeanalysis`<br>
+2. Install dependencies<br>
+   `pip install -r requirements.txt`<br>
+3. Download and extract the pre-trained models inside the Ensemble_Models/folder.<br>
