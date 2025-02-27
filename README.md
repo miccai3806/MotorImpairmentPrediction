@@ -14,6 +14,19 @@ An ensemble learning approach combined multiple modalities, achieving high class
 📄 motorscores_train.py – Training script for the 3D-CNN models.<br>
 📄 motorscore_ensemble.py – Script for ensemble model integration across different modalities.<br>
 📄 motorscore_ensemble_prediction.py – Prediction script for evaluating new test samples.<br>
+
+# Requirements
+To run this repository, the following dependencies are required: <br>
+Python 3.9+ <br>
+TensorFlow (>=2.8)<br>
+Keras (>=2.8)<br>
+NumPy (>=1.21)<br>
+Scikit-learn (>=0.24)<br>
+SciPy (>=1.7)<br>
+Pandas (>=1.3)<br>
+Matplotlib (>=3.4)<br>
+nibabel<br>
+
 # Getting Started
 <b> Installation <br>
 1. Clone the repository: <br>
